@@ -1,4 +1,14 @@
 # lnk-with-Webdav-POC
+Windows Defender and Avira AV Does not flag the Lnk as malicious.
+Tested on
+Windows 10 Pro
+BuildNumber     : 19045
+Version         : 10.0.19045
+
+Windows 11
+BuildNumber     : 22000
+Version         : 10.0.22000
+
 ### Requirements ⚙️
 * Python3
 
