@@ -130,10 +130,12 @@ $shortcut.Save()
 
 # Send the Windows library file to the victim, for e.g phishing email.
 Giving instructions for the user to click on the hr folder, and the windows shortcut.
-The responder should be able to harvest the credentials hash successful. We can then either crack the hash for the user password or we can relay them to a tool like ntlmrelayx, or pass the hash directly for authentication as potential exploitations
+The responder should be able to harvest the credentials hash successful.
+# We can then either crack the hash for the user password or we can relay them to a tool like ntlmrelayx, or pass the hash directly for authentication as potential exploitations
 ![image](https://github.com/2102596sit/lnk-with-Webdav-POC/assets/90232201/154a6e66-51cb-4b7c-a0cc-233959918bcd)
 
 ## Using hashcat to crack the NTLM hash recovered
 ![image](https://github.com/2102596sit/lnk-with-Webdav-POC/assets/90232201/2c926b5a-bb79-45b6-820b-650dd96d8df7)
 ![image](https://github.com/2102596sit/lnk-with-Webdav-POC/assets/90232201/b9b70946-b037-49dc-a334-d86cf4dcd92a)
+
 
