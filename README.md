@@ -29,7 +29,9 @@ wsgidav --host=0.0.0.0 --port=80 --auth=anonymous --root /home/kali/webdav/
 responder -I eth0 -dwFP -v
 ```
 ![image](https://github.com/2102596sit/lnk-with-Webdav-POC/assets/90232201/c1f59930-d518-4fa1-9cd2-4f42799c80d5)
+
 Ensure that SMB server is on
+
 ![image](https://github.com/2102596sit/lnk-with-Webdav-POC/assets/90232201/1715fa7b-bf04-4c1a-97e1-7e967ddab24f)
 
 ### On windows attacker machine
