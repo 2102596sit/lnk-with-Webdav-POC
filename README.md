@@ -133,6 +133,7 @@ Giving instructions for the user to click on the hr folder, and the windows shor
 The responder should be able to harvest the credentials hash successful.
 # We can then either crack the hash for the user password or we can relay them to a tool like ntlmrelayx, or pass the hash directly for authentication as potential exploitations
 ![image](https://github.com/2102596sit/lnk-with-Webdav-POC/assets/90232201/154a6e66-51cb-4b7c-a0cc-233959918bcd)
+responder captured credentials NTLMv2
 
 ## Using hashcat to crack the NTLM hash recovered
 ![image](https://github.com/2102596sit/lnk-with-Webdav-POC/assets/90232201/2c926b5a-bb79-45b6-820b-650dd96d8df7)
