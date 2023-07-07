@@ -60,7 +60,7 @@ The version tag can be set to a numerical value of our choice, for example, 7.
 ```
 Name and Version Tags of the Library
 
-Next, we'll add the isLibraryPinned11 tag. This element specifies if the library is pinned to the navigation pane in Windows Explorer. 
+Next, we'll add the isLibraryPinned tag. This element specifies if the library is pinned to the navigation pane in Windows Explorer. 
 The next tag we'll add is iconReference, which determines what icon is used to display the library file. We must specify the value in the same format as the name element. 
 We can use imagesres.dll to choose between all Windows icons. We can use index "-1002" for the Documents folder icon.
 ```
