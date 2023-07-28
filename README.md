@@ -44,7 +44,7 @@ We can save the file HRFolder.
 ![image](https://github.com/2102596sit/lnk-with-Webdav-POC/assets/90232201/c660329d-b3db-4fca-be8a-5f429461f8f4)
 
 Library files consist of three major parts and are written in XML to specify the parameters for accessing remote locations. The parts are General library information, Library properties, and Library locations. Let's build the XML code by adding and explain the tags. We can refer to the Library Description Schema6 for further information. We'll begin by adding the XML and library file's format version.
-The listing below contains the namespace7 for the library file. This is the namespace for the version of the library file format starting from Windows 7. The listing also contains the closing tag for the library description. All of the following tags we cover will be added inside the libraryDescription tags.
+The listing below contains the namespace for the library file. This is the namespace for the version of the library file format starting from Windows 7. The listing also contains the closing tag for the library description. All of the following tags we cover will be added inside the libraryDescription tags.
 ```
 <?xml version="1.0" encoding="UTF-8"?>
 <libraryDescription xmlns="http://schemas.microsoft.com/windows/2009/library">
